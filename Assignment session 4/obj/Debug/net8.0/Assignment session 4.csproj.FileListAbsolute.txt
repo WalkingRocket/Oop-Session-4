@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\bin\Debug\net8.0\Assignment session 4.exe
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\bin\Debug\net8.0\Assignment session 4.deps.json
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\bin\Debug\net8.0\Assignment session 4.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\bin\Debug\net8.0\Assignment session 4.dll
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\bin\Debug\net8.0\Assignment session 4.pdb
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.dll
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\refint\Assignment session 4.dll
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.pdb
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\Assignment session 4.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\ERD\C# Assignment\Oop\Session 4\Assignment session 4\Assignment session 4\obj\Debug\net8.0\ref\Assignment session 4.dll
